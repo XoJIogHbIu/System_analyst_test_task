@@ -1,1 +1,1 @@
-# System_analyst_test_task
+# Данный репозиторий является решением [тестового задания на System Analyst](SystemAnalyst.pdf)
