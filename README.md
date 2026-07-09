@@ -13,5 +13,5 @@
 Уточнить почему пропущен пункт 12.
 
 ## Задание 2: проектирование API
-### [REST API запрос](request.http)
-
+### [2.1 REST API запрос](request.http)
+### [Response](response.json)
