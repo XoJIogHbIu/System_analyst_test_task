@@ -1,0 +1,3 @@
+GET https://api.petrushka-green.ru/api/v1/partners/stores?city_id=1&lat=54.6296&lon=39.7419
+Authorization: Bearer <access_token>
+Accept: application/json
