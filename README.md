@@ -14,4 +14,4 @@
 
 ## Задание 2: проектирование API
 ### [2.1 REST API запрос](request.http)
-### [Response](response.json)
+### [2.2 Response](response.json)
