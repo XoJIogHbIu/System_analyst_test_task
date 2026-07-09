@@ -15,3 +15,5 @@
 ## Задание 2: проектирование API
 ### [2.1 REST API запрос](request.http)
 ### [2.2 Response](response.json)
+
+## Задание 3: [архитектура](push_architecture.md)
