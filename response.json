@@ -1,0 +1,17 @@
+{
+  "screen_title": "Выберите магазин",
+  "stores": [
+    {
+      "id": "metro",
+      "name": "METRO",
+      "logo_url": "/images/metro.png",
+      "delivery": {
+        "type": "time_slot",
+        "date": "2026-07-09",
+        "start_time": "21:00",
+        "end_time": "23:00"
+      },
+      "external_url": "https://example.com/metro"
+    }
+  ]
+}
