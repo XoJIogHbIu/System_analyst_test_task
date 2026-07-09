@@ -1,3 +1,4 @@
+```mermaid
 flowchart TD
     A[Мобильное приложение] -->|получает push token| B[Backend / BFF]
     B -->|сохраняет token| C[User/Profile Service]
@@ -18,3 +19,4 @@ flowchart TD
 
     M --> A
     N --> A
+```
