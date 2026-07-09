@@ -4,14 +4,53 @@
     {
       "id": "metro",
       "name": "METRO",
-      "logo_url": "/images/metro.png",
-      "delivery": {
-        "type": "time_slot",
+      "logo_url": "https://cdn.petrushka-green.ru/partners/metro.png",
+      "delivery_text": "Ближайшая доставка сегодня 21:00-23:00",
+      "delivery_type": "nearest_slot",
+      "delivery_slot": {
         "date": "2026-07-09",
         "start_time": "21:00",
         "end_time": "23:00"
       },
-      "external_url": "https://example.com/metro"
+      "deeplink_url": "https://metro.example.com"
+    },
+    {
+      "id": "auchan",
+      "name": "Ашан",
+      "logo_url": "https://cdn.petrushka-green.ru/partners/auchan.png",
+      "delivery_text": "Ближайшая доставка сегодня 18:00-20:00",
+      "delivery_type": "nearest_slot",
+      "delivery_slot": {
+        "date": "2026-07-09",
+        "start_time": "18:00",
+        "end_time": "20:00"
+      },
+      "deeplink_url": "https://auchan.example.com"
+    },
+    {
+      "id": "vkusvill",
+      "name": "ВкусВилл",
+      "logo_url": "https://cdn.petrushka-green.ru/partners/vkusvill.png",
+      "delivery_text": "Быстрая доставка от 20 до 60 минут",
+      "delivery_type": "fast_delivery",
+      "delivery_interval_minutes": {
+        "min": 20,
+        "max": 60
+      },
+      "deeplink_url": "https://vkusvill.example.com"
+    },
+    {
+      "id": "victoria",
+      "name": "ВИКТОРИЯ",
+      "logo_url": "https://cdn.petrushka-green.ru/partners/victoria.png",
+      "delivery_text": "Ближайшая доставка сегодня 17:00-19:00",
+      "delivery_type": "nearest_slot",
+      "delivery_slot": {
+        "date": "2026-07-09",
+        "start_time": "17:00",
+        "end_time": "19:00"
+      },
+      "deeplink_url": "https://victoria.example.com"
     }
   ]
 }
